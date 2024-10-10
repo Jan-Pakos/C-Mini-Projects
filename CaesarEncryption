@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// TYPE IN THE TEXT AND THEN THE KEY FOR ENCRYPTION WHEN RUNNING
 void encrypt_text(char* text, int key);
 
 
